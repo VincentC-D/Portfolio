@@ -70,7 +70,7 @@ https://github.com/JAC-CS-Game-Programming-F24/4-zelda-VincentC-D
 
 ## Contact
 <pre>
-      (450) 544-1061
-      www.linkedin.com/in/vincent-cloutier-duval                           vincentcloutierduval@gmail.com
-      https://github.com/VincentC-D                                   Salaberry-de-Valleyfield, QC J6T5Z1
+   (450) 544-1061
+   www.linkedin.com/in/vincent-cloutier-duval                           vincentcloutierduval@gmail.com
+   https://github.com/VincentC-D                                   Salaberry-de-Valleyfield, QC J6T5Z1
 </pre>
