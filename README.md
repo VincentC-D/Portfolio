@@ -29,7 +29,7 @@ them and make other games.
 For this game project, we were tasked with creating an AI for the right paddle so that the player can play</br>
 alone. This is possible by following the ball coordinates and moving the paddle’s coordinates at its turn. 
 
-</br></br>
+</br>
 
 https://github.com/user-attachments/assets/79790e1c-3989-4b01-8bed-b0f7c83f22c4
 
@@ -37,7 +37,13 @@ https://github.com/user-attachments/assets/79790e1c-3989-4b01-8bed-b0f7c83f22c4
 
 ## Breakout
 
-For this game project, we were tasked with implementing a powerup (a pickable object which affect the game)</br> which makes two more balls for the player to play with. The challenge with this implementation was to create</br> the ball and keep track of them. This was challenging because of the multiple states (windows displayed: game</br> over, game won, game in play and more) that were recreating the game each time. In addition, we had to make</br> the paddle grow bigger when the player got a high enough score without losing a life, with the score getting</br> increasingly more demanding. This was achieved by tracking the score and position of the paddle and then</br> switching them with prior extracted sprites of the bigger paddle.
+For this game project, we were tasked with implementing a powerup (a pickable object which affect the game)</br> 
+which makes two more balls for the player to play with. The challenge with this implementation was to create</br> 
+the ball and keep track of them. This was challenging because of the multiple states (windows displayed: game</br> 
+over, game won, game in play and more) that were recreating the game each time. In addition, we had to make</br> 
+the paddle grow bigger when the player got a high enough score without losing a life, with the score getting</br> 
+increasingly more demanding. This was achieved by tracking the score and position of the paddle and then</br> 
+switching them with prior extracted sprites of the bigger paddle.
 
 </br>
 
@@ -46,12 +52,13 @@ For this game project, we were tasked with implementing a powerup (a pickable ob
 </br></br>
 
 ## Match 3
+For this game project, we were tasked with adding new types of tiles to the play board, the star tile which</br> 
+clears the row or column depending on the direction of the match and the tiles with patterns which yield more</br> 
+points. The difficulty of this one was the way to access the tiles affected by a star matches, this was made</br> 
+posible by corolating the board size with the collection of tiles and then deducing the affected tiles.
 
-<p>
-  
-</p>
+</br>
 
-</br></br></br>
 [![Match3](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv7ssjojvSe8%26ab_channel%3Dvincent_544)](https://www.youtube.com/watch?v=v7ssjojvSe8&ab_channel=vincent_544)
 
 </br></br>
